@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Data files
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Claude settings
+.claude/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
