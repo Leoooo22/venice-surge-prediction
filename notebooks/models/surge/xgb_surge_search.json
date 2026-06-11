@@ -1,0 +1,13 @@
+{
+  "best_params": {
+    "subsample": 0.6,
+    "reg_lambda": 10.0,
+    "reg_alpha": 0.1,
+    "n_estimators": 500,
+    "min_child_weight": 3,
+    "max_depth": 6,
+    "learning_rate": 0.01,
+    "colsample_bytree": 1.0
+  },
+  "best_cv_mae": 0.02613755857210135
+}
